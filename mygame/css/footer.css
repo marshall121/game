@@ -1,0 +1,21 @@
+.footer{
+	background:rgba(51,51,51);
+	position:relative;
+	width:100%;
+	height:300px;
+}
+.box-contact{
+	color:#fff;
+    position:absolute;
+    top:100px;	
+    left:100px;
+}
+.contact{
+	font-size:20px;
+}	
+.contact-text{
+	color:#fff;
+	position:absolute;
+	top:100px;
+	left:180px;
+}

@@ -1,0 +1,28 @@
+.glyphicon{
+	color:#fff;
+	top:17px;
+	right:-20px;
+	line-height: 40px;
+}
+.navbar-default{
+	background-color:#cc0e17!important;
+	height:68px;
+	border:none;
+}
+.navbar-default .navbar-nav>li>a{
+	color:#FFFF;
+}
+.navbar-brand{
+	padding:0;
+}
+.navbar-default .navbar-nav{
+	padding:0;
+	text-align: center;
+}
+.navbar-default .navbar-nav li a{
+	line-height: 40px;
+}
+.row{
+	margin-left:0;
+	margin-right:0;
+}

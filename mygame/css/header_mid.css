@@ -1,0 +1,26 @@
+@media(max-width:992px){
+	.navbar-collapse.in{
+		border:none;
+	}
+   .search{
+   	display: none;
+   }
+   .navbar-nav{
+   	  visibility: hidden;
+   }
+   .container-fluid{
+	background:rgb(51,51,51);
+	
+}
+.recommend{
+	font-size:20px;
+	color:#FFFF;
+}
+.food{
+	font-size:14px;
+	color:#DCDCDC;
+}
+.recommend-right{
+	display:none;
+}
+}
